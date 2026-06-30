@@ -1,0 +1,6 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Read before opening an issue
+    url: https://github.com/b4db1r3/OneNotificationListFFS#support
+    about: Please use GitHub issues for bug reports and feature requests only.
+
